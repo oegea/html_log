@@ -1,0 +1,24 @@
+{
+  "name": "html_log",
+  "version": "1.0.0",
+  "description": "Library to generate html-formatted logs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "log",
+    "html",
+    "logger",
+    "logging",
+    "error",
+    "warning",
+    "debug",
+    "file"
+  ],
+  "author": "Oriol Egea",
+  "license": "AGPL-3.0",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}
